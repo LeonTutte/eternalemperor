@@ -2,7 +2,7 @@
 
 
 
-Eternal Emperor is a Real-time strategy (RTS) Game wich orients itself on older Games form the "Golden Ara" like:
+Eternal Emperor is a sci-fi Real-time strategy Game. It orients itself on older games from the “Golden Ara” like:
 
 - Supreme Commander (+ Forged Alliance)
 - Earth 2160
