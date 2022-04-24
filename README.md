@@ -1,7 +1,5 @@
 # Eternal Emperor
 
-
-
 Eternal Emperor is a sci-fi Real-time strategy Game. It orients itself on older games from the “Golden Ara” like:
 
 - Supreme Commander (+ Forged Alliance)
@@ -13,14 +11,14 @@ Eternal Emperor is a sci-fi Real-time strategy Game. It orients itself on older 
 
 ## Content
 
-- [Current State](#Current State)
+- [Current State](#State)
 - [License](#License)
 - [Featurelist](#Features)
 - [Links](#Links)
 
 :star: Star this Repository on GitHub — it motivates a lot! :heart:
 
-## Current State
+## State
 
 | Topic                   | Yes / No                 |
 | ----------------------- | ------------------------ |
