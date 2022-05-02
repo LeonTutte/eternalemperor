@@ -47,22 +47,3 @@ jobs:
       run: cargo build --verbose
     - name: Run tests
       run: cargo test --verbose
-      
-  build-macos:
-
-    runs-on: [macOS-latest]
-    strategy:
-      matrix:
-        toolchain:
-          - stable
-          - beta
-          - nightly
-
-    steps:
-    - uses: actions/checkout@v3
-    - name: Change toolchain
-      run: rustup update ${{ matrix.toolchain }} && rustup default ${{ matrix.toolchain }}
-    - name: Build
-      run: cargo build --verbose
-    - name: Run tests
-      run: cargo test --verbose
